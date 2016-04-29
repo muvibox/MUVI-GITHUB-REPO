@@ -1,69 +1,231 @@
-#Extm3u
-#EXTINF:-1,USA_ESPN
-http://www.q7t1.com:8000/live/bk2/bk2/1477.ts
-#EXTINF:-1,USA_FOX_SPORT_2
-http://www.q7t1.com:8000/live/bk2/bk2/1484.ts
-#EXTINF:-1,USA_NBC
-http://www.q7t1.com:8000/live/bk2/bk2/1485.ts
-#EXTINF:-1,USA_FOX_SPORT_1
-http://www.q7t1.com:8000/live/bk2/bk2/1483.ts
-#EXTINF:-1,USA_NBA_TV
-http://www.q7t1.com:8000/live/bk2/bk2/1486.ts
-#EXTINF:-1,USA_NFL
-http://www.q7t1.com:8000/live/bk2/bk2/1492.ts
-#EXTINF:-1,USA_CBS_NEWS_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1491.ts
-#EXTINF:-1,USA_VERSUS_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1490.ts
-#EXTINF:-1,USA_DISCOVERY_SHOWCASE_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1489.ts
-#EXTINF:-1,USA_DISCOVERY_CHANNEL_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1488.ts
-#EXTINF:-1,USA_ID
-http://www.q7t1.com:8000/live/bk2/bk2/1487.ts
-#EXTINF:-1,USA_TSN_1
-http://www.q7t1.com:8000/live/bk2/bk2/1482.ts
-#EXTINF:-1,USA_TSN_2
-http://www.q7t1.com:8000/live/bk2/bk2/1481.ts
-#EXTINF:-1,USA_TSN_3
-http://www.q7t1.com:8000/live/bk2/bk2/1480.ts
-#EXTINF:-1,USA_TSN_4
-http://www.q7t1.com:8000/live/bk2/bk2/1479.ts
-#EXTINF:-1,USA_TSN_5
-http://www.q7t1.com:8000/live/bk2/bk2/1478.ts
-#EXTINF:-1,USA_WORLD_FASHION_HD
-http://www.q7t1.com:8000/live/bk2/bk2/4175.ts
-#EXTINF:-1,USA_SPORT_NET_360
-http://www.q7t1.com:8000/live/bk2/bk2/4168.ts
-#EXTINF:-1,USA_SPORT_NET_1
-http://www.q7t1.com:8000/live/bk2/bk2/4167.ts
-#EXTINF:-1,USA_SHOWTIME_HD
-http://www.q7t1.com:8000/live/bk2/bk2/4176.ts
-#EXTINF:-1,USA_REDBULL_TV
-http://www.q7t1.com:8000/live/bk2/bk2/4166.ts
-#EXTINF:-1,USA_PLANET_GREEN
-http://www.q7t1.com:8000/live/bk2/bk2/4177.ts
-#EXTINF:-1,USA_NBC_GOLF
-http://www.q7t1.com:8000/live/bk2/bk2/4169.ts
-#EXTINF:-1,USA_NASA_TV_HD
-http://www.q7t1.com:8000/live/bk2/bk2/4178.ts
-#EXTINF:-1,USA_MUTE_TV
-http://www.q7t1.com:8000/live/bk2/bk2/4179.ts
-#EXTINF:-1,USA_MIAMI_TV
-http://www.q7t1.com:8000/live/bk2/bk2/4180.ts
-#EXTINF:-1,USA_GOLF_CHANNEL
-http://www.q7t1.com:8000/live/bk2/bk2/4170.ts
-#EXTINF:-1,USA_FASHION_ONE
-http://www.q7t1.com:8000/live/bk2/bk2/4181.ts
-#EXTINF:-1,USA_BYU_SPORTS_TV_HD
-http://www.q7t1.com:8000/live/bk2/bk2/4174.ts
-#EXTINF:-1,USA_ASTRO_SUPERSPORT_3
-http://www.q7t1.com:8000/live/bk2/bk2/4173.ts
-#EXTINF:-1,USA_ASTRO_SUPERSPORT_2
-http://www.q7t1.com:8000/live/bk2/bk2/4172.ts
-#EXTINF:-1,USA_ASTRO_SUPERSPORT_1
-http://www.q7t1.com:8000/live/bk2/bk2/4171.ts
-#EXTINF:-1,USA_AFN_PULSE
-http://www.q7t1.com:8000/live/bk2/bk2/4182.ts
-#EXTINF:-1,USA_AFN_MOVIE
-http://www.q7t1.com:8000/live/bk2/bk2/4183.ts
+#EXTM3U
+#EXTINF:-1,====== + USA CHANNELS +======
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2293.ts
+#EXTINF:-1,USA:WTF
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2917.ts
+#EXTINF:-1,USA:USA Net
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2918.ts
+#EXTINF:-1,USA:Starz Cinema
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2919.ts
+#EXTINF:-1,USA:Sport 1 HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2920.ts
+#EXTINF:-1,USA:Poker Central
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2921.ts
+#EXTINF:-1,USA:Nick
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2922.ts
+#EXTINF:-1,USA:NHL
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2923.ts
+#EXTINF:-1,USA:NDTV
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2924.ts
+#EXTINF:-1,USA:NBCSN
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2925.ts
+#EXTINF:-1,USA:NBA TV HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2926.ts
+#EXTINF:-1,USA:MBL
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2927.ts
+#EXTINF:-1,USA:KTLA
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2928.ts
+#EXTINF:-1,USA:ESPN 2
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2929.ts
+#EXTINF:-1,USA:ESPN
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2930.ts
+#EXTINF:-1,USA:E! HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2914.ts
+#EXTINF:-1,USA:DISCOVERY SHOWCASE HD us
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2915.ts
+#EXTINF:-1,USA:DISCOVERY ID XTRA HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2916.ts
+#EXTINF:-1,US: WWE Network
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2211.ts
+#EXTINF:-1,US: TSN 4
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2206.ts
+#EXTINF:-1,US: TSN 2
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2205.ts
+#EXTINF:-1,US: TSN 1
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2204.ts
+#EXTINF:-1,US: BRAVO
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2210.ts
+#EXTINF:-1,US: HBO ZONE
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2209.ts
+#EXTINF:-1,US: Fox Sports 2
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2213.ts
+#EXTINF:-1,US: Fox Sports 1
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2212.ts
+#EXTINF:-1,US: Fox Sports 2
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2208.ts
+#EXTINF:-1,US: Fox Sports 1
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2207.ts
+#EXTINF:-1,US: CNBC
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2203.ts
+#EXTINF:-1,US: FOX Deportes HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2217.ts
+#EXTINF:-1,US: TSN 5
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2322.ts
+#EXTINF:-1,US: TSN 3
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2321.ts
+#EXTINF:-1,US: ESPN
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2323.ts
+#EXTINF:-1,US: EPL HD5 ( During Games Only )
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2324.ts
+#EXTINF:-1,US: EPL HD4 ( During Games Only )
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2325.ts
+#EXTINF:-1,US: EPL HD3 ( During Games Only )
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2326.ts
+#EXTINF:-1,US: EPL HD2 ( During Games Only )
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2327.ts
+#EXTINF:-1,US: EPL HD1 ( During Games Only )
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2328.ts
+#EXTINF:-1,US: DTX HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2329.ts
+#EXTINF:-1,US: BEIN SPORT
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2320.ts
+#EXTINF:-1,US: AFN Sports HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2330.ts
+#EXTINF:-1,US: AFN Sports 2
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2331.ts
+#EXTINF:-1,US: NBC Golf HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2216.ts
+#EXTINF:-1,US: Comedy C HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2215.ts
+#EXTINF:-1,US: DIY Network HD
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2214.ts
+#EXTINF:-1,US: ABC News
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2202.ts
+#EXTINF:-1,VIASAT Sports
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/1972.ts
+#EXTINF:-1,VIASAT Football
+http://ORBIT-IPTV.COM:2500/live/bilal/bilal/1971.ts
+#EXTINF:-1,EPL astro 2
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4564.ts
+#EXTINF:-1,EPL astro 1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4563.ts
+#EXTINF:-1,USA: womens entertainment
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4618.ts
+#EXTINF:-1,USA: Willow HD
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4603.ts
+#EXTINF:-1,USA: VH1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4616.ts
+#EXTINF:-1,USA: USA Network
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4605.ts
+#EXTINF:-1,USA: TSN 5
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4598.ts
+#EXTINF:-1,USA: TSN 4
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4597.ts
+#EXTINF:-1,USA: TSN 3
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4596.ts
+#EXTINF:-1,USA: TSN 2
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4595.ts
+#EXTINF:-1,USA: TSN 1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4594.ts
+#EXTINF:-1,USA: trutv
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4619.ts
+#EXTINF:-1,USA: TNT
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4571.ts
+#EXTINF:-1,USA: Syfy USA
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4593.ts
+#EXTINF:-1,USA: Starz
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4599.ts
+#EXTINF:-1,USA: SportsNet World
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4592.ts
+#EXTINF:-1,USA: SportsNet Ontario
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4591.ts
+#EXTINF:-1,USA: SportsNet ONE
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4590.ts
+#EXTINF:-1,USA: Spike USA
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4579.ts
+#EXTINF:-1,USA: Showtime USA
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4581.ts
+#EXTINF:-1,USA: sec network
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4615.ts
+#EXTINF:-1,USA: OWN
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4620.ts
+#EXTINF:-1,USA: Nick Jr
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4617.ts
+#EXTINF:-1,USA: NFL
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4589.ts
+#EXTINF:-1,USA: NBC USA
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4578.ts
+#EXTINF:-1,USA: NBC Sports
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4587.ts
+#EXTINF:-1,USA: NBC Golf
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4586.ts
+#EXTINF:-1,USA: NBA USA
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4577.ts
+#EXTINF:-1,USA: MTV
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4613.ts
+#EXTINF:-1,USA: MLB
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4621.ts
+#EXTINF:-1,USA: History
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4573.ts
+#EXTINF:-1,USA: HGTV
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4570.ts
+#EXTINF:-1,USA: Hallmark
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4606.ts
+#EXTINF:-1,USA: H2
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4572.ts
+#EXTINF:-1,USA: Fox Sports 2
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4585.ts
+#EXTINF:-1,USA: Fox Sports 1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4584.ts
+#EXTINF:-1,USA: Fox 1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4607.ts
+#EXTINF:-1,USA: food network
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4614.ts
+#EXTINF:-1,USA: Fight Network
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4580.ts
+#EXTINF:-1,USA: ESPN Usa
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4604.ts
+#EXTINF:-1,USA: ESPN U
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4574.ts
+#EXTINF:-1,USA: ESPN News
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4612.ts
+#EXTINF:-1,USA: ESPN 2
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4583.ts
+#EXTINF:-1,USA: Destination America
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4608.ts
+#EXTINF:-1,USA: Cinemax East
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4600.ts
+#EXTINF:-1,USA: CBS Sport
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4575.ts
+#EXTINF:-1,USA: CBS
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4576.ts
+#EXTINF:-1,USA: Bravo
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4610.ts
+#EXTINF:-1,USA: Bet
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4609.ts
+#EXTINF:-1,USA: Bein USA
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4582.ts
+#EXTINF:-1,USA: AXS
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4588.ts
+#EXTINF:-1,USA: AMC USA
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4602.ts
+#EXTINF:-1,USA: ABC USA
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4601.ts
+#EXTINF:-1,USA: ABC Family
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4622.ts
+#EXTINF:-1,USA: A & E
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4611.ts
+#EXTINF:-1,EPL stadium x
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4562.ts
+#EXTINF:-1,EPL stadium 6
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4561.ts
+#EXTINF:-1,EPL stadium 5
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4560.ts
+#EXTINF:-1,EPL stadium 4
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4559.ts
+#EXTINF:-1,EPL stadium 3
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4558.ts
+#EXTINF:-1,EPL stadium 2
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4557.ts
+#EXTINF:-1,EPL stadium 1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4556.ts
+#EXTINF:-1,EPL fox sport 3
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4569.ts
+#EXTINF:-1,EPL fox sport 2
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4568.ts
+#EXTINF:-1,EPL fox sport 1
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4567.ts
+#EXTINF:-1,EPL Astro 4
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4566.ts
+#EXTINF:-1,EPL astro 3
+http://cp.dmbshare.net:8000/live/uapgodi/uapgodi/4565.ts
