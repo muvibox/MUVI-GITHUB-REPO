@@ -1,6 +1,5 @@
 #EXTM3U
 
-http://?
 
 #EXTINF: -1,DISCOVERY EN ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8?
@@ -895,8 +894,6 @@ http://iptvcanales.com/xw/pinfantiles.php?movie=178
 http://iptvcanales.com/xw/pinfantiles.php?movie=179
 #EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: EL MISTERIO DE LOS FLAMENCOS (2008)
 http://iptvcanales.com/xw/pinfantiles.php?movie=180
-#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: FELINOS DE ÁFRICA (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=181
 #EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: CHIMPANCÉS (2012)
 http://iptvcanales.com/xw/pinfantiles.php?movie=182
 #EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: ALAS DE LA VIDA (2013)
