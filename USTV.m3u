@@ -1,79 +1,102 @@
-#EXTM3U
-#EXTINF:-1,by tutorial-iptv-xbmc.blogspot.co
-#EXTINF:-1, CNN USA
-http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421&xs=_we_cmp4bzhoejE3cTl3YWlxfDEzOTY4MjM0MTZ8NDkuOTMuMzcuNjN8NTM0MWM3NjgyZTY3Nnw5YWNmYzRhM2FiNjQwMmFkMmY1OGQ2YjJlOWVkMjllYTQ0MTgxODI2 timeout=10
-#EXTINF:-1,Travel Channel HD
-http://142.4.216.60:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887&xs=_we_MWZ2dW9rMm55NGp0bWdxfDE0MTk5MTM4ODd8fDU0YTE5ZGZmMjgwNTR8MjZlNDRkMjc2ZDFiZDExODcyM2UyMGQ2OGZlNTFkNmI3NDA1NmQzZA timeout=10
-#EXTINF:-1, A&E
-http://142.4.216.60:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467&xs=_we_dHVjMjgwcmJ5Y3duc3ZzfDE0MTk5MTY0Njd8NzIuMjcuMjE0LjMzfDU0YTFhODEzOGZkNDR8ZmE0OGE4YmUwMTczYjU4MWVjNzUzYTg4OTQzM2 timeout=10
-#EXTINF:-1,OWN
-http://142.4.216.60:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658&xs=_we_dWVoZ3k1aHRpYXNmZmozfDE0MTk5MTQ2NTh8fDU0YTFhMTAyYWFmNDV8YjhmYTUyMTQ1OTQ5OWY3NzNiZWExYjdlZGE5ZWM5OWEzODkzMjI0ZA timeout=10
-#EXTINF:-1,ABC HD
-http://142.4.216.60:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374&xs=_we_Mzcxamx1aXJsamNzamVufDE0MTk5MTYzNzR8NzIuMjcuMjE0LjMzfDU0YTFhN2I2MzUxMWJ8ZDU3ODc0MTUyMWE0YTMyODdmZjdkYzJiMTYyZmY0MDA1YzM4NjdkYQ timeout=10
-#EXTINF:-1,ABC
-http://142.4.216.60:1935/edge/_definst_/371jluirljcsjen/playlist.m3u8?wowzasessionid=1420168303&xs=_we_Mzcxamx1aXJsamNzamVufDE0MjAyMDQzMDN8NzIuMjcuMjE0LjMzfDU0YTYwYzZmMGE2NGV8OGMxYmQ2YWM5M2ZmNzY1OTIwYzVhMTBiZGQ1MzEyZDM0ZjRiZjNjNQ timeout=10
-#EXTINF:-1,CBS HD
-http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw timeout=10
-#EXTINF:-1,CBS
-http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw timeout=10
-#EXTINF:-1,ESPN 2
-http://142.4.216.60:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722&xs=_we_NWhkMTlrd3hlZjViNTlvfDE0MjAxNTk3MjJ8NzIuMjcuMjE0LjMzfDU0YTU1ZTRhMzc3YjN8MDUyOGQ2Njg0MGJmNjRkMWY5MzIxN2QzOTljOTUwYTJmYjE5MmM5Zg timeout=10
-#EXTINF:-1,ESPN HD
-http://142.4.216.60:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934&xs=_we_amJnNngwYnowcXRheWhjfDE0MTk5MTU5MzR8NzIuMjcuMjE0LjMzfDU0YTFhNWZlNDBlZWJ8ZTk1OGYxM2U5MjFmOGNmYWYwZDU4ZTk4ZDczY2JhNzFjODJlOGJkNw timeout=10
-#EXTINF:-1,Fox News HD
-http://142.4.216.60:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821&xs=_we_dzBtcjEwZ2V0dnNpa2FtfDE0MjAxNTk4MjF8NzIuMjcuMjE0LjMzfDU0YTU1ZWFkODY0YmV8YWVlYjYzYzQwMzFmZjZmN2RkNDJhM2IzMmQ1NTQ0M2YxYzRkNWFhNw timeout=10
-#EXTINF:-1,NFL Network HD
-http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878830&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTQ4MzB8fDU0YTFhMWFlODc0MTF8ZjhmMmU5ZGYwMGM3YTJkOWIwMDM3YWQzNmZjYWJkN2ZjMDA3ZWY1Mg timeout=10
-#EXTINF:-1,Fox News
-http://142.4.216.60:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587&xs=_we_dzBtcjEwZ2V0dnNpa2FtfDE0MTk5MDk1ODd8NzIuMjcuMjE0LjMzfDU0YTE4ZDMzYTQ2NDd8NDRjMzIwMjIwOGUxZjZmNmFiODBiNjg3ZTAyNDlhMWQ0OTI4Njk1Ng timeout=10
-#EXTINF:-1,Hallmark HD
-http://142.4.216.60:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MTk5MTAyMzZ8NzIuMjcuMjE0LjMzfDU0YTE4ZmJjOTVhMWN8MzJmYjg0MzMxMDZiMTlhNzNhNzY0M2JlNjBmNTdkZDJkYjEyMWFjNA timeout=10
-#EXTINF:-1,HBO
-http://142.4.216.60:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk5NDMzMDl8NzIuMjcuMjE0LjMzfDU0YTIxMGVkNTEyNmF8OGUzN2Q3OGJkNGZiNTBkOGU2ZmVlZTFiMzlkNjAxYWMyMzcyY2VmMg timeout=10
-#EXTINF:-1,Jackie Chan (1991-2008)
-http://142.4.216.60:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797&xs=_we_YXE2aWpsc3pjdDd3Zmw0fDE0MjAyMDU3OTd8NzIuMjcuMjE0LjMzfDU0YTYxMjQ1OTE2YjF8ZGI5NjFlZTczZDQ2YzgzYzNlYjZkYjViN2FhYmU5ZWU3ZjMxODVjMA timeout=10
-#EXTINF:-1,TLC
-http://142.4.216.60:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MTk5NDM5Mjl8NzIuMjcuMjE0LjMzfDU0YTIxMzU5YzNhNDl8NzlhMGE2NzE3M2RmZTE1NmNjMThhMmYyZDVjOTA3N2Q5OGU2YjNjMg timeout=10
-#EXTINF:-1,Food Network
-http://142.4.216.60:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022&xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0MTk5MDkwMjJ8NzIuMjcuMjE0LjMzfDU0YTE4YWZlNzAwMGJ8Y2FkMmFlNzUyZmRkYWM3NjIzYjA2MDM2ZWRlY2FlMDlmMjBhYmQzZg timeout=10
-#EXTINF:-1,Lifetime HD
-http://142.4.216.60:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018&xs=_we_MnFtaXdmeWRiajZ5dTg5fDE0MTk5MTUwMTh8fDU0YTFhMjZhYTVhZjl8MWVhMmFlNjIyY2RhZGM4MjFiYWI1ZjM2NjY3YzlkMjU2MDMwMWNhNg timeout=10
-#EXTINF:-1,Discovery HD
-http://142.4.216.60:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569&xs=_we_cm83YzllaGEwejk2aHBwfDE0MTk5MDg1Njl8NzIuMjcuMjE0LjMzfDU0YTE4OTM5ZjJkMzN8YTI0NDkzYmNjNmJiM2NjYTQ4YTAzYWE4ODRjODY0M2M0ZThhM timeout=10GVlOA
-#EXTINF:-1,National Geographic
-http://142.4.216.60:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282&xs=_we_YjhiYXY1YXl6c284bThxfDE0MjAyMDYyODJ8NzIuMjcuMjE0LjMzfDU0YTYxNDJhNDM5YWF8NTVjODFmOGQzMGVmN2M3ODhlZjEyYWNmNWVkNWFhNjE0NjVlOWYyNQ timeout=10
-#EXTINF:-1,TNT HD
-http://142.4.216.60:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MjAxNjA4Mjd8NzIuMjcuMjE0LjMzfDU0YTU2MjliZGU4Zjh8ZDhjZjgzMzk0ZTNiODI4MzFiNDU3ZmE1MDk4ODdlZTMzZTJjZ timeout=10
-#EXTINF:-1,TruTV HD
-http://142.4.216.60:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955&xs=_we_aDVlb3ZhajFqZWVnbHVxfDE0MjAxNjA5NTV8NzIuMjcuMjE0LjMzfDU0YTU2MzFiMGExMzJ8ZTI3MjlkOTQ0NmFmYTJjMDU5NjQ5NTg5OWQwNDdmYzI5Y2VkNDRjMA timeout=10
-#EXTINF:-1,VH1
-http://142.4.216.60:1935:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560&xs=_we_b2VpaWd4eHYxZ2JlcXE5fDE0MjAyMDY1NjB8NzIuMjcuMjE0LjMzfDU0YTYxNTQwNDRkMDl8NTQ0Mzg0MmU4ZDU1YjU1M2I5N2RjZjU4YzhhNjNkOTg5YjMwMTY2NA timeout=10
-#EXTINF:-1, MTV
-http://142.4.216.60:1935:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062&xs=_we_ZDJ6MXZjNGFocmw2eDI2fDE0MjAyMDcwNjJ8NzIuMjcuMjE0LjMzfDU0YTYxNzM2OGE4ODl8NDAyY2I4NjFkNzk5YmY5ZTA5MzFlZTEyZTQ1NTBiOWY5OGQ1NzQ4OQ timeout=10
-
-#EXTINF:0,abc family
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/NyRerYqWuhRWGCsmb3f3 swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=2 token=OOG17t.x#K9Vh#|
-#EXTINF:0,amc
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/TfRQx7deUAuncJwM047m swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=237 token=OOG17t.x#K9Vh#|
-#EXTINF:0,cbs
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/Ger61uLQ4fedzvjRjrB7 swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=338 token=OOG17t.x#K9Vh#|
-#EXTINF:0,Cartoon Network
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/08pydvp1b7ZwZb3a5TW1 swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=6 token=OOG17t.x#K9Vh#|
-#EXTINF:0,cw
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/IWSyIjvWgHRCMM7MEJoZ swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=8 token=OOG17t.x#K9Vh#|
-#EXTINF:0,fox
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/9pxGCtP3aEnJYgoBFFH8 swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=306 token=OOG17t.x#K9Vh#|
-#EXTINF:0,FX
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/VCV8SViFVBv2nX5RQwKI swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=10 token=OOG17t.x#K9Vh#|
-#EXTINF:0,HBO
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/qKmzUdRhBM73njBBDFyL swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=845 token=OOG17t.x#K9Vh#|
-#EXTINF:0,looney toons
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/fo2FgVN6vw1izsjm5CqJ swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=330 token=OOG17t.x#K9Vh#|
-#EXTINF:0,mtv
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/7U8HX14EnQVGCFy swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=12 token=OOG17t.x#K9Vh#|
-#EXTINF:0,nbc
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/nbc01_augqlbj1 swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=653 token=OOG17t.x#K9Vh#|
-#EXTINF:0,tnt
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/Waz0WqvbqNHmt0gdzrsm swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=309 token=OOG17t.x#K9Vh#|
-#EXTINF:0,usa
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.myhdcast.com/redirect/jvZXQUYQmlsPirfiVK1G swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=19 token=OOG17t.x#K9Vh#|
+#EXTINF:0,US: Sports The Thao 1
+http://ipsatpro.com:8000/live/1975/1975/1168.m3u8
+#EXTINF:0,US: Sports BTV5 The Tha
+http://ipsatpro.com:8000/live/1975/1975/1167.m3u8
+#EXTINF:0,US: Sport SCTV12
+http://ipsatpro.com:8000/live/1975/1975/1166.m3u8
+#EXTINF:0,US: Fox Sports 1
+http://ipsatpro.com:8000/live/1975/1975/1161.m3u8
+#EXTINF:0,US: Fox Sports 2
+http://ipsatpro.com:8000/live/1975/1975/1160.m3u8
+#EXTINF:0,US: Sports TSN 1
+http://ipsatpro.com:8000/live/1975/1975/1144.m3u8
+#EXTINF:0,US: Sport 1 HD
+http://ipsatpro.com:8000/live/1975/1975/1177.m3u8
+#EXTINF:0,US: Sport Network
+http://ipsatpro.com:8000/live/1975/1975/1172.m3u8
+#EXTINF:0,US: Sports PAC 12 Oregon
+http://ipsatpro.com:8000/live/1975/1975/1142.m3u8
+#EXTINF:0,US: Movie Cinestream TV
+http://ipsatpro.com:8000/live/1975/1975/1429.m3u8
+#EXTINF:0,US: WFTV Channel 9
+http://ipsatpro.com:8000/live/1975/1975/1430.m3u8
+#EXTINF:0,US: Sports Versus HD
+http://ipsatpro.com:8000/live/1975/1975/1431.m3u8
+#EXTINF:0,US: World Fashion TV
+http://ipsatpro.com:8000/live/1975/1975/1432.m3u8
+#EXTINF:0,US: Sports NFL Now HD
+http://ipsatpro.com:8000/live/1975/1975/1434.m3u8
+#EXTINF:0,US: Nasa TV Education
+http://ipsatpro.com:8000/live/1975/1975/1433.m3u8
+#EXTINF:0,US: Sports MLS Soccer
+http://ipsatpro.com:8000/live/1975/1975/1151.m3u8
+#EXTINF:0,US: Sports Tonight
+http://ipsatpro.com:8000/live/1975/1975/1158.m3u8
+#EXTINF:0,US: Sports Fight Sports
+http://ipsatpro.com:8000/live/1975/1975/1436.m3u8
+#EXTINF:0,US: Sports HI
+http://ipsatpro.com:8000/live/1975/1975/1435.m3u8
+#EXTINF:0,US: Fox MotorSports
+http://ipsatpro.com:8000/live/1975/1975/1146.m3u8
+#EXTINF:0,US: Red Bull TV HD
+http://ipsatpro.com:8000/live/1975/1975/1153.m3u8
+#EXTINF:0,US: NFL Now
+http://ipsatpro.com:8000/live/1975/1975/1148.m3u8
+#EXTINF:0,US: PAC 12 Washington
+http://ipsatpro.com:8000/live/1975/1975/1143.m3u8
+#EXTINF:0,US: Star Movies HD
+http://ipsatpro.com:8000/live/1975/1975/1157.m3u8
+#EXTINF:0,US: Moveis Nuoc Ngoai
+http://ipsatpro.com:8000/live/1975/1975/1165.m3u8
+#EXTINF:0,US: Movie De Pelicula
+http://ipsatpro.com:8000/live/1975/1975/1438.m3u8
+#EXTINF:0,US: AMG Entertainment
+http://ipsatpro.com:8000/live/1975/1975/1437.m3u8
+#EXTINF:0,US: SCTV Phim Chau A
+http://ipsatpro.com:8000/live/1975/1975/1164.m3u8
+#EXTINF:0,US: HBO Signature
+http://ipsatpro.com:8000/live/1975/1975/1176.m3u8
+#EXTINF:0,US: HBO Comedy
+http://ipsatpro.com:8000/live/1975/1975/1175.m3u8
+#EXTINF:0,US: Basketball Uni
+http://ipsatpro.com:8000/live/1975/1975/1152.m3u8
+#EXTINF:0,US: Espan 2
+http://ipsatpro.com:8000/live/1975/1975/1162.m3u8
+#EXTINF:0,US: HSN
+http://ipsatpro.com:8000/live/1975/1975/1170.m3u8
+#EXTINF:0,US: HSN 2
+http://ipsatpro.com:8000/live/1975/1975/1163.m3u8
+#EXTINF:0,US: London Live
+http://ipsatpro.com:8000/live/1975/1975/1159.m3u8
+#EXTINF:0,US: AMC
+http://ipsatpro.com:8000/live/1975/1975/1156.m3u8
+#EXTINF:0,US: NBA TV
+http://ipsatpro.com:8000/live/1975/1975/1174.m3u8
+#EXTINF:0,US: starzcinema
+http://ipsatpro.com:8000/live/1975/1975/1169.m3u8
+#EXTINF:0,US: ABC NEWS HD
+http://ipsatpro.com:8000/live/1975/1975/1179.m3u8
+#EXTINF:0,US: Poker Central
+http://ipsatpro.com:8000/live/1975/1975/1155.m3u8
+#EXTINF:0,US: Club Land
+http://ipsatpro.com:8000/live/1975/1975/1178.m3u8
+#EXTINF:0,US: California TV
+http://ipsatpro.com:8000/live/1975/1975/1171.m3u8
+#EXTINF:0,US: Weather
+http://ipsatpro.com:8000/live/1975/1975/1173.m3u8
+#EXTINF:0,US: Bloomberg
+http://ipsatpro.com:8000/live/1975/1975/1180.m3u8
+#EXTINF:0,US: Amazing Discoveries
+http://ipsatpro.com:8000/live/1975/1975/1181.m3u8
+#EXTINF:0,US: Top10 History
+http://ipsatpro.com:8000/live/1975/1975/1149.m3u8
+#EXTINF:0,US: Top10 ESPN
+http://ipsatpro.com:8000/live/1975/1975/1150.m3u8
+#EXTINF:0,US: SCTVHD Phu Nu
+http://ipsatpro.com:8000/live/1975/1975/1439.m3u8
+#EXTINF:0,US: National Geographic
+http://ipsatpro.com:8000/live/1975/1975/1154.m3u8
+#EXTINF:0,US: Daystart
+http://ipsatpro.com:8000/live/1975/1975/1145.m3u8
+#EXTINF:0,US: BYU
+http://ipsatpro.com:8000/live/1975/1975/1147.m3u8
