@@ -1,5 +1,4 @@
 #EXTM3U
-http://158.69.226.108:8000/live/muvi/12345/1645.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA - PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png",USA - PBS
 http://158.69.226.108:8000/live/muvi/12345/441.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA - NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/LogoNBC.png",USA - NBC
@@ -56,6 +55,8 @@ http://158.69.226.108:8000/live/muvi/12345/585.ts
 http://158.69.226.108:8000/live/muvi/12345/587.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: EUROSPORT" tvg-logo="http://2.bp.blogspot.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png",USA: EUROSPORT
 http://158.69.226.108:8000/live/muvi/12345/1505.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA - FAIL ARMY" tvg-logo="http://st-listas.20minutos.es/images/2015-10/403260/4824678_249px.jpg?1449351371",USA - FAIL ARMY
+http://158.69.226.108:8000/live/muvi/12345/2869.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: FIGHT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fight_Channel_official_logo.png/176px-Fight_Channel_official_logo.png",USA: FIGHT HD
 http://158.69.226.108:8000/live/muvi/12345/1033.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: FOX SPORT 1" tvg-logo="http://iptveiksprivado.com/Logos/FOX-SPORT-HD.png",USA: FOX SPORT 1
@@ -64,17 +65,28 @@ http://158.69.226.108:8000/live/muvi/12345/588.ts
 http://158.69.226.108:8000/live/muvi/12345/775.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: FOX SPORT 2 HD" tvg-logo="http://4.bp.blogspot.com/-Jro2j6oneWU/UzHah3xwE3I/AAAAAAAAAZA/mB4gz-3IqMc/s1600/1977319_517502378366782_342421131_n.png",USA: FOX SPORT 2 HD
 http://158.69.226.108:8000/live/muvi/12345/774.ts
-#EXTM3U
 #EXTINF:-1 group-title="Usa" tvg-name="USA: NBA TV" tvg-logo="http://www.cutcabletoday.com/wp-content/uploads/2015/03/NBA-logo.png",USA: NBA TV
 http://158.69.226.108:8000/live/muvi/12345/594.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: NBC GOLF 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Golf_Channel_old_logo.png",USA: NBC GOLF 1080p
 http://158.69.226.108:8000/live/muvi/12345/1502.ts
-#EXTINF:-1 group-title="" tvg-name="USA: NBC SPORT NETWORK HD" tvg-logo="http://blogs-images.forbes.com/greatspeculations/files/2012/01/300px-NBC-Sports-Network-Logo_bla.grid-5x2.jpg",USA: NBC SPORT NETWORK HD
+#EXTINF:-1 group-title="Usa" tvg-name="USA: NBC SPORT NETWORK HD" tvg-logo="http://blogs-images.forbes.com/greatspeculations/files/2012/01/300px-NBC-Sports-Network-Logo_bla.grid-5x2.jpg",USA: NBC SPORT NETWORK HD
 http://158.69.226.108:8000/live/muvi/12345/597.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA - MLB NETWORK 40" tvg-logo="https://f5.com/Portals/1/Users/036/92/141092/logo-mlb-network.png",USA - MLB NETWORK 40
 http://158.69.226.108:8000/live/muvi/12345/783.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: NFL HD" tvg-logo="http://www.blogandtackle.net/wp-content/uploads/2011/08/NFLNetworkLogo.jpg",USA: NFL HD
 http://158.69.226.108:8000/live/muvi/12345/592.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA: NFL SUNDAY TICKET" tvg-logo="http://mtadamstavernonthehill.com/wp-content/uploads/2015/05/nfl_sunday_ticket-e1431034076394.png",USA: NFL SUNDAY TICKET
+http://158.69.226.108:8000/live/muvi/12345/2862.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA: NFL SUNDAY TICKET 2" tvg-logo="http://mtadamstavernonthehill.com/wp-content/uploads/2015/05/nfl_sunday_ticket-e1431034076394.png",USA: NFL SUNDAY TICKET 2
+http://158.69.226.108:8000/live/muvi/12345/2863.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA: NFL SUNDAY TICKET 3" tvg-logo="http://mtadamstavernonthehill.com/wp-content/uploads/2015/05/nfl_sunday_ticket-e1431034076394.png",USA: NFL SUNDAY TICKET 3
+http://158.69.226.108:8000/live/muvi/12345/2864.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA: NFL SUNDAY TICKET 4" tvg-logo="http://mtadamstavernonthehill.com/wp-content/uploads/2015/05/nfl_sunday_ticket-e1431034076394.png",USA: NFL SUNDAY TICKET 4
+http://158.69.226.108:8000/live/muvi/12345/2865.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA: NFL SUNDAY TICKET 5" tvg-logo="http://mtadamstavernonthehill.com/wp-content/uploads/2015/05/nfl_sunday_ticket-e1431034076394.png",USA: NFL SUNDAY TICKET 5
+http://158.69.226.108:8000/live/muvi/12345/2866.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA: NFL SUNDAY TICKET 6" tvg-logo="http://mtadamstavernonthehill.com/wp-content/uploads/2015/05/nfl_sunday_ticket-e1431034076394.png",USA: NFL SUNDAY TICKET 6
+http://158.69.226.108:8000/live/muvi/12345/2867.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: PAC-12 Net. (Arizona) 1080p" tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png",USA: PAC-12 Net. (Arizona) 1080p
 http://158.69.226.108:8000/live/muvi/12345/1497.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: PAC-12 Net. (Bay Area) 1080p" tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png",USA: PAC-12 Net. (Bay Area) 1080p
@@ -91,6 +103,10 @@ http://158.69.226.108:8000/live/muvi/12345/551.ts
 http://158.69.226.108:8000/live/muvi/12345/1504.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: SPORT 1 HD" tvg-logo="http://www.hdtv-pro.de/wp-content/uploads/2012/06/sport1plus_logo.jpg",USA: SPORT 1 HD
 http://158.69.226.108:8000/live/muvi/12345/796.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA - TENNIS CHANNEL" tvg-logo="http://daveseminara.com/wp-content/uploads/2016/02/tn_TennisChannelLogo.jpg",USA - TENNIS CHANNEL
+http://158.69.226.108:8000/live/muvi/12345/999.ts
+#EXTINF:-1 group-title="Usa" tvg-name="USA - VERSUS" tvg-logo="http://wikitv.eu/wp-content/uploads/2015/03/VERSUS.jpeg",USA - VERSUS
+http://158.69.226.108:8000/live/muvi/12345/2868.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: VIASAT GOLF HD" tvg-logo="http://teetime.dk/wp-content/uploads/2015/07/ViasatGolf_620x400.jpg",USA: VIASAT GOLF HD
 http://158.69.226.108:8000/live/muvi/12345/395.ts
 #EXTINF:-1 group-title="Usa" tvg-name="USA: UFC NETWORK HD" tvg-logo="http://iptveiksprivado.com/Logos/UFC-NETWORK.png",USA: UFC NETWORK HD
